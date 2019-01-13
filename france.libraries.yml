@@ -18,9 +18,18 @@ base:
   version: VERSION
   css:
     theme:
-      css/saint.css: {}
+      css/france.css: {}
+      css/style.css: {}
   js:
-    js/saint.js: {}
+      js/france.js: {}
+  image:
+      img/bg.jpg: {}
+      img/bg2.jpg: {}
+      img/chess.jpg: {}
+      img/chess2.jpg: {}
+      img/chess3.jpg: {}
+      img/chess4.jpg: {}
+      img/chess5.jpg: {}
   dependencies:
     - core/jquery
 
